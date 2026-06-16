@@ -1,0 +1,6 @@
+{
+  "name": "Fake News Detector XAI",
+  "description": "Explainable AI powered fake news classifier using advanced NLP, news verification, and SHAP-based feature attribution visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
